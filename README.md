@@ -1,5 +1,4 @@
 #PicPong
-========
 PicPong is a simple Pong-style game made to run on a P18F8722 explorer board. The explorer board features a PIC18F8722 microcontroller, two buttons, a strip of eight LEDs and an LCD display.
 
 The project was developed using the MPLAB C18 compiler of Microchip’s MPLAB Integrated Development Environment.
